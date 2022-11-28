@@ -1,1 +1,1 @@
-﻿global using AoCHelper;
+global using AoCHelper;

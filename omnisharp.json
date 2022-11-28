@@ -1,0 +1,7 @@
+{
+	"$schema": "https://json.schemastore.org/omnisharp",
+
+	"FormattingOptions": {
+		"EnableEditorConfigSupport": true
+	}
+}
